@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1653343468 source:c:\users\qursa\clionprojects\salesapp\main.cpp
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<cstring>
+	<bits/stdc++.h>
+	<windows.h>
+
